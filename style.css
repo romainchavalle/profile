@@ -1,0 +1,55 @@
+body{background-color: #fcfbf0;
+  font-size: 17px;
+  line-height: 20px;
+  color: #262626;
+  font-family: Poppins;
+  font-weight: 350;}
+
+
+.photoprofil{border-radius: 4px;
+width: 50%;}
+
+h1{font-size: 60px;
+  line-height: 30px;
+  color: #fffdf0;
+  font-family: Bebas Neue;}
+
+h2{font-size: 20px;
+    line-height: 5px;
+    color: #283618;
+    font-family: Poppins;
+    font-weight: 600;}
+
+a{text-decoration: none;
+  color: white;
+  background-color: #283618;
+  padding: 10px;
+  border-radius: 5px;
+  line-height: 60px;}
+
+
+a:hover{background-color: #bc6c25;
+  transition: 0.5s;
+  }
+
+.capsule{font-size: 17px;
+  line-height: 20px;
+  color: #fffdf0;
+  font-family: Poppins;
+  font-weight: 350;
+  margin-top: 70px;
+  padding-top: 30px;
+  border-top: 2px solid #fcfbf0;
+  }
+
+.header{border-radius: 4px;
+        margin: 2%;}
+
+.inlinediv{display: inline-flex;
+  background-image: url("/images/background.jpg");
+  background-size: 100%;
+  width: 100%;}
+
+.card{background: #fffdf0;
+  padding: 30px;
+  border-top: 3px solid #283618;}
